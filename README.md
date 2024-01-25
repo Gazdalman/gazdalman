@@ -1,4 +1,4 @@
-### Hi there 👋
+### About Me 👋
 
 <!--
 **Gazdalman/gazdalman** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -19,5 +19,5 @@ Here are some ideas to get you started:
     <img src="https://skillicons.dev/icons?i=python,javascript,react,redux,flask,express,html,css" />
   </a>
 </p>
-##About Me
+## About Me
  🤔 I’m looking for help with ...
