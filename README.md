@@ -31,7 +31,7 @@ Here are some ideas to get you started:
 </div>
 
 <div id="skills">
-  <h2 align="center">Skills & Technologies</h2>
+  <h2 align="center">Known Technologies</h2>
   <p align="center">
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=html,css,js,nodejs,py,express,react,redux,flask,sequelize,git,aws,figma,ps,ai,&perline=5" />
@@ -45,7 +45,7 @@ Here are some ideas to get you started:
 
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=python,javascript,react,redux,flask,express,html,css,sequelize,git,aws,sqlalchemy" />
+    <img src="https://skillicons.dev/icons?i=python,javascript,react,redux,flask,express,node.js,balsamiq,html,css,sequelize,git,aws,sqlalchemy" />
   </a>
 </p>
 
