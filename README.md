@@ -1,5 +1,3 @@
-### About Me 👋
-
 <!--
 **Gazdalman/gazdalman** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -44,8 +42,7 @@ Here are some ideas to get you started:
 </div>
 
 
-[![Generic badge](https://img.shields.io/badge/this-that-red.svg)](https://shields.io/)
+[![Generic badge](https://img.shields.io/badge/Watching-Black&Clover-red.svg)](https://shields.io/)
 
 
 
- I’m looking for help with ...
