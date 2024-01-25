@@ -43,7 +43,7 @@ Here are some ideas to get you started:
 
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=python,javascript,react,redux,flask,express,html,css" />
+    <img src="https://skillicons.dev/icons?i=python,javascript,react,redux,flask,express,html,css,sequelize,git,aws,sqlalchemy" />
   </a>
 </p>
 
