@@ -44,13 +44,22 @@ Here are some ideas to get you started:
 <div id="about-me">
    <h3> About Me </h3>
    <div> 💻  Check out my ongoing project FundMyJunk @https://fundmyjunk.onrender.com </div>
-   <div> 📍  I'm based in Chicago, IL, USA</div>
-   <div> 🍪🍰🥧🧁 I'm very much a baker when I'm not coding.. </div>
+   <div> 📧  You can contact me @ta.winston@outlook.com </div>
+   <div> 📍  I'm based in Dallas,TX </div>
 </div>
 <div>
+  <h3> My Hobbies </h3>
+  <div> 🍳 Trying new recipes </div>
+  <div> 🎮 Gaming on my PC </div>
+  <div> 📚 Learn new languages (computer or otherwise) </div>
+  <div> 🥽 Playing TONS of VR </div>
+  <div> 📺 Watching anime </div>
+</div>
+
+<div>
   <h3>My Projects</h3>
-  <div> 🪄https://cultivate-project.onrender.com </div>
-  <div> 🪄 https://api-aribnb-project.onrender.com </div>
+  <div> 🪄https://fundmyjunk.onrender.com </div>
+  <div> 🪄https://windrnr.onrender.com </div>
 </div>
 
 [![Generic badge](https://img.shields.io/badge/Watching-Black_Clover-red.svg)](https://shields.io/)
