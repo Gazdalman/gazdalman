@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 <div id="header" align="center">
-  <img src="https://media.giphy.com/media/hiJ9ypGI5tIKdwKoK2/giphy.gif" width="300"/>
+  <img src="https://media1.tenor.com/m/o-wNCEq_6f0AAAAd/pompo-the-cinephile-typing-fast.gif" width="300"/>
 </div>
 <div id="badges" align="center">
   <a href="https://www.linkedin.com/in/primpraow-m-653708227/">
