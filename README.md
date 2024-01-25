@@ -19,5 +19,9 @@ Here are some ideas to get you started:
     <img src="https://skillicons.dev/icons?i=python,javascript,react,redux,flask,express,html,css" />
   </a>
 </p>
-## About Me
- 🤔 I’m looking for help with ...
+
+[![Generic badge](https://img.shields.io/badge/this-that-red.svg)](https://shields.io/)
+
+
+
+ I’m looking for help with ...
