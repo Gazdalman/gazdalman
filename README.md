@@ -42,7 +42,7 @@ Here are some ideas to get you started:
 </div>
 
 
-[![Generic badge](https://img.shields.io/badge/Watching-Black&Clover-red.svg)](https://shields.io/)
+[![Generic badge](https://img.shields.io/badge/Watching-Black_Clover-red.svg)](https://shields.io/)
 
 
 
