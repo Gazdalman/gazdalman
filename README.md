@@ -16,6 +16,6 @@ Here are some ideas to get you started:
 -->
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=python,javascript,react,redux,flask,vim" />
+    <img src="https://skillicons.dev/icons?i=python,javascript,react,redux,flask,express,html,css" />
   </a>
 </p>
