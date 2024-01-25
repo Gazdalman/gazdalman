@@ -34,7 +34,7 @@ Here are some ideas to get you started:
   <h2 align="center">Known Technologies</h2>
   <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=html,css,js,nodejs,py,express,react,redux,flask,sqlalchemy,sequelize,git,aws,figma,ps,ai,&perline=5" />
+    <img src="https://skillicons.dev/icons?i=python,javascript,react,redux,flask,postman,express,nodejs,html,css,sequelize,git,aws,sqlalchemy" />
   </a>
 </p>
   
@@ -43,11 +43,6 @@ Here are some ideas to get you started:
     <img src="https://komarev.com/ghpvc/?username=gazdalman&style=flat-square&color=red" alt=""/>
 </div>
 
-<p align="center">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=python,javascript,react,redux,flask,express,nodejs,html,css,sequelize,git,aws,sqlalchemy" />
-  </a>
-</p>
 
 [![Generic badge](https://img.shields.io/badge/this-that-red.svg)](https://shields.io/)
 
