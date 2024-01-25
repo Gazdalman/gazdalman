@@ -38,7 +38,7 @@ Here are some ideas to get you started:
   
 </div>
 <div id="views" align="center">
-    <img src="https://komarev.com/ghpvc/?username=gazdalman&style=flat-square&color=orange" alt=""/>
+    <img src="https://komarev.com/ghpvc/?username=gazdalman&style=flat-square&color=red" alt=""/>
 </div>
 
 <p align="center">
