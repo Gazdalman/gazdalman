@@ -45,7 +45,7 @@ Here are some ideas to get you started:
 
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=python,javascript,react,redux,flask,express,node.js,balsamiq,html,css,sequelize,git,aws,sqlalchemy" />
+    <img src="https://skillicons.dev/icons?i=python,javascript,react,redux,flask,express,nodejs,html,css,sequelize,git,aws,sqlalchemy" />
   </a>
 </p>
 
