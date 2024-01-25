@@ -34,7 +34,7 @@ Here are some ideas to get you started:
   <h2 align="center">Known Technologies</h2>
   <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=html,css,js,nodejs,py,express,react,redux,flask,sequelize,git,aws,figma,ps,ai,&perline=5" />
+    <img src="https://skillicons.dev/icons?i=html,css,js,nodejs,py,express,react,redux,flask,sqlalchemy,sequelize,git,aws,figma,ps,ai,&perline=5" />
   </a>
 </p>
   
