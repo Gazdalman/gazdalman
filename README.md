@@ -64,7 +64,7 @@ Here are some ideas to get you started:
 
 <h3>What I'm Doing</h3>
 
-[![Generic badge](https://img.shields.io/badge/Currently_Watching-Black_Clover-red.svg)](https://shields.io/)
+[![Generic badge](https://img.shields.io/badge/Currently_Watching-Blue_Exorcist-blue.svg)](https://shields.io/)
 
 [![Generic badge](https://img.shields.io/badge/Currently_Playing-Elden_Ring-yellow.svg)](https://shields.io/)
 
