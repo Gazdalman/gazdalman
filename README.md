@@ -18,7 +18,7 @@ Here are some ideas to get you started:
 </h1>
 
 <div id="badges" align="center">
-  <a target="new" href="https://www.linkedin.com/in/toney-winston-53bb21141/">
+  <a target="_blank" href="https://www.linkedin.com/in/toney-winston-53bb21141/">
     <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white"/>
   </a>
 </div>
