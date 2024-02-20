@@ -64,6 +64,8 @@ Here are some ideas to get you started:
 
 <h3>What I'm Doing</h3>
 
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=gazdalman)](https://github.com/anuraghazra/github-readme-stats)
+
 [![Generic badge](https://img.shields.io/badge/Currently_Watching-Blue_Exorcist-blue.svg)](https://shields.io/)
 
 [![Generic badge](https://img.shields.io/badge/Currently_Playing-Control-red.svg)](https://shields.io/)
