@@ -66,8 +66,10 @@ Here are some ideas to get you started:
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=gazdalman)](https://github.com/anuraghazra/github-readme-stats)
 
-[![Generic badge](https://img.shields.io/badge/Currently_Watching-Blue_Exorcist-blue.svg)](https://shields.io/)
+[![Generic badge](https://img.shields.io/badge/Currently_Watching-Bleach-red.svg)](https://shields.io/)
 
-[![Generic badge](https://img.shields.io/badge/Currently_Playing-Control-red.svg)](https://shields.io/)
+[![Generic badge](https://img.shields.io/badge/Currently_Playing-Divinity_2-green.svg)](https://shields.io/)
 
 [![Generic badge](https://img.shields.io/badge/Currently_Learning-C++-blue.svg)](https://shields.io/)
+[![Generic badge](https://img.shields.io/badge/Currently_Learning-Ruby-red.svg)](https://shields.io/)
+[![Generic badge](https://img.shields.io/badge/Currently_Learning-Java-blue.svg)](https://shields.io/)
