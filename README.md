@@ -63,6 +63,7 @@ Here are some ideas to get you started:
 </div>
 
 <h3>My Stats</h3>
+
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=gazdalman)](https://github.com/anuraghazra/github-readme-stats)
 
 <h3>What I'm Doing</h3>
