@@ -62,9 +62,10 @@ Here are some ideas to get you started:
   <div> 🪄https://windrnr.onrender.com </div>
 </div>
 
-<h3>What I'm Doing</h3>
-
+<h3>My Stats</h3>
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=gazdalman)](https://github.com/anuraghazra/github-readme-stats)
+
+<h3>What I'm Doing</h3>
 
 [![Generic badge](https://img.shields.io/badge/Currently_Watching-Bleach-red.svg)](https://shields.io/)
 
