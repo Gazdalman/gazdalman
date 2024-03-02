@@ -32,7 +32,8 @@ Here are some ideas to get you started:
   <h2 align="center">Known Technologies</h2>
   <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=python,javascript,react,redux,flask,postman,express,nodejs,html,css,sequelize,git,aws" />
+    <img src="https://skillicons.dev/icons?i=python,javascript,react,redux,flask,java,postman,express" /><br>
+    <img src="https://skillicons.dev/icons?i=nodejs,html,css,sequelize,git,aws,ruby,typescript" />
   </a>
 </p>
   
@@ -68,7 +69,7 @@ Here are some ideas to get you started:
 
 <h3>What I'm Doing</h3>
 
-[![Generic badge](https://img.shields.io/badge/Currently_Watching-Bleach-red.svg)](https://shields.io/)
+[![Generic badge](https://img.shields.io/badge/Currently_Watching-The_Eminence_in_Shadow-purple.svg)](https://shields.io/)
 
 [![Generic badge](https://img.shields.io/badge/Currently_Playing-Divinity_2-green.svg)](https://shields.io/)
 
