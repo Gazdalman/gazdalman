@@ -59,8 +59,8 @@ Here are some ideas to get you started:
 
 <div>
   <h3>My Projects</h3>
-  <div target="_blank"> 🪄https://fundmyjunk.onrender.com </div>
-  <div target="_blank"> 🪄https://sketchy-v2.onrender.com </div>
+  <a target="_blank" href="https://fundmyjunk.onrender.com"> 🪄https://fundmyjunk.onrender.com </a>
+  <a target="blank" href="https://sketchy_v2.onrender.com"> 🪄https://sketchy_v2.onrender.com </a>
 </div>
 
 <h3>My Stats</h3>
