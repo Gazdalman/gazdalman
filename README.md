@@ -32,7 +32,7 @@ Here are some ideas to get you started:
   <h2 align="center">Known Technologies</h2>
   <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=python,javascript,react,redux,flask,java,postman,express" /><br>
+    <img src="https://skillicons.dev/icons?i=python,javascript,react,redux,flask,java,postman,express,django" /><br>
     <img src="https://skillicons.dev/icons?i=nodejs,html,css,sequelize,git,aws,ruby,typescript" />
   </a>
 </p>
