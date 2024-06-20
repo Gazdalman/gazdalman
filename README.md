@@ -33,7 +33,7 @@ Here are some ideas to get you started:
   <p align="center">
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=python,javascript,react,redux,flask,java,postman,express,django" /><br>
-    <img src="https://skillicons.dev/icons?i=nodejs,html,css,sequelize,git,aws,ruby,typescript" />
+    <img src="https://skillicons.dev/icons?i=nodejs,html,css,sequelize,git,aws,ruby,typescript,cpp" />
   </a>
 </p>
   
@@ -69,9 +69,9 @@ Here are some ideas to get you started:
 
 <h3>What I'm Doing</h3>
 
-[![Generic badge](https://img.shields.io/badge/Currently_Watching-The_Eminence_in_Shadow-purple.svg)](https://shields.io/)
+[![Generic badge](https://img.shields.io/badge/Currently_Watching-Bleach-red.svg)](https://shields.io/)
 
-[![Generic badge](https://img.shields.io/badge/Currently_Playing-Divinity_2-green.svg)](https://shields.io/)
+[![Generic badge](https://img.shields.io/badge/Currently_Playing-Bauldurs_Gate_3-green.svg)](https://shields.io/)
 
 [![Generic badge](https://img.shields.io/badge/Currently_Learning-C++-blue.svg)](https://shields.io/)
 [![Generic badge](https://img.shields.io/badge/Currently_Learning-Ruby-red.svg)](https://shields.io/)
