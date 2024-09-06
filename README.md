@@ -33,7 +33,8 @@ Here are some ideas to get you started:
   <p align="center">
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=python,javascript,react,redux,flask,java,postman,express,django" /><br>
-    <img src="https://skillicons.dev/icons?i=nodejs,html,css,sequelize,git,aws,ruby,typescript,cpp" />
+    <img src="https://skillicons.dev/icons?i=nodejs,html,css,sequelize,git,aws,ruby,typescript,cpp" /> <br>
+<!--     <img src="https://skillicons.dev/icons?i=d" /> -->
   </a>
 </p>
   
