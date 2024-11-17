@@ -34,6 +34,7 @@ Here are some ideas to get you started:
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=python,javascript,react,redux,flask,java,postman,express,django" /><br>
     <img src="https://skillicons.dev/icons?i=nodejs,html,css,sequelize,git,aws,ruby,typescript,cpp" /> <br>
+    <img src="https://skillicons.dev/icons?i=golang" />
 <!--     <img src="https://skillicons.dev/icons?i=d" /> -->
   </a>
 </p>
