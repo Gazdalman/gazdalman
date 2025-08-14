@@ -34,7 +34,7 @@ Here are some ideas to get you started:
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=python,javascript,react,redux,flask,java,postman,express,django" /><br>
     <img src="https://skillicons.dev/icons?i=nodejs,html,css,sequelize,git,aws,ruby,typescript,cpp" /> <br>
-    <img src="https://skillicons.dev/icons?i=golang" />
+    <img src="https://skillicons.dev/icons?i=golang,cs" />
 <!--     <img src="https://skillicons.dev/icons?i=d" /> -->
   </a>
 </p>
@@ -46,9 +46,9 @@ Here are some ideas to get you started:
 
 <div id="about-me">
    <h3> About Me </h3>
-   <div> 💻  Check out my ongoing project FundMyJunk @https://fundmyjunk.onrender.com </div>
-   <div> 📧  You can contact me @ta.winston@outlook.com </div>
-   <div> 📍  I'm based in Dallas,TX </div>
+<!--    <div> 💻  Check out my ongoing project FundMyJunk @https://fundmyjunk.onrender.com </div> -->
+   <div> 📧  You can contact me @ ta.winston@outlook.com </div>
+   <div> 📍  I'm based in Dallas, TX </div>
 </div>
 <div>
   <h3> My Hobbies </h3>
@@ -71,10 +71,10 @@ Here are some ideas to get you started:
 
 <h3>What I'm Doing</h3>
 
-[![Generic badge](https://img.shields.io/badge/Currently_Watching-Bleach-red.svg)](https://shields.io/)
+[![Generic badge](https://img.shields.io/badge/Currently_Watching-Rising_of_Shield_Hero-red.svg)](https://shields.io/)
 
-[![Generic badge](https://img.shields.io/badge/Currently_Playing-Bauldurs_Gate_3-green.svg)](https://shields.io/)
+[![Generic badge](https://img.shields.io/badge/Currently_Playing-Persona_3_Reload-blue.svg)](https://shields.io/)
 
-[![Generic badge](https://img.shields.io/badge/Currently_Learning-C++-blue.svg)](https://shields.io/)
+[![Generic badge](https://img.shields.io/badge/Currently_Learning-Unity-white.svg)](https://shields.io/)
 [![Generic badge](https://img.shields.io/badge/Currently_Learning-Ruby-red.svg)](https://shields.io/)
 [![Generic badge](https://img.shields.io/badge/Currently_Learning-Java-blue.svg)](https://shields.io/)
