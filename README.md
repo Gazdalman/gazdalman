@@ -77,4 +77,4 @@ Here are some ideas to get you started:
 
 [![Generic badge](https://img.shields.io/badge/Currently_Learning-Unity-white.svg)](https://shields.io/)
 [![Generic badge](https://img.shields.io/badge/Currently_Learning-Ruby-red.svg)](https://shields.io/)
-[![Generic badge](https://img.shields.io/badge/Currently_Learning-Java-blue.svg)](https://shields.io/)
+[![Generic badge](https://img.shields.io/badge/Currently_Learning-CSharp-blue.svg)](https://shields.io/)
