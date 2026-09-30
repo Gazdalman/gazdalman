@@ -71,9 +71,9 @@ Here are some ideas to get you started:
 
 <h3>What I'm Doing</h3>
 
-[![Generic badge](https://img.shields.io/badge/Currently_Watching-Rising_of_Shield_Hero-red.svg)](https://shields.io/)
+[![Generic badge](https://img.shields.io/badge/Currently_Watching-Blacklist-red.svg)](https://shields.io/)
 
-[![Generic badge](https://img.shields.io/badge/Currently_Playing-Persona_3_Reload-blue.svg)](https://shields.io/)
+[![Generic badge](https://img.shields.io/badge/Currently_Playing-Crimson_Desert-red.svg)](https://shields.io/)
 
 [![Generic badge](https://img.shields.io/badge/Currently_Learning-Unity-white.svg)](https://shields.io/)
 [![Generic badge](https://img.shields.io/badge/Currently_Learning-Ruby-red.svg)](https://shields.io/)
