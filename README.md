@@ -65,10 +65,6 @@ Here are some ideas to get you started:
   <div>🪄 https://sketchy_v2.onrender.com</div>
 </div>
 
-<h3>My Stats</h3>
-
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=gazdalman)](https://github.com/anuraghazra/github-readme-stats)
-
 <h3>What I'm Doing</h3>
 
 [![Generic badge](https://img.shields.io/badge/Currently_Watching-Blacklist-red.svg)](https://shields.io/)
